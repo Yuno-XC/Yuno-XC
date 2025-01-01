@@ -1,11 +1,44 @@
 
-**Challa Somesh**
+<h1 align="left">Hey 👋 What's up?</h1>
 
-*Data Analyst* | *Web Developer*
+###
 
-I'm skilled in data analysis and web development.  I enjoy using HTML, CSS, and JavaScript for web development and Python,SQL,Excel and Power BI for data analysis.
+<p align="left">My name is Somesh, and I’m a curious, driven individual focused about learning, creating, and growing. In my free time, I enjoy F1.</p>
 
-**Let's connect!**
+###
 
-Challa.somesh@gmail.com
+<h2 align="left">About me</h2>
 
+###
+
+<p align="left">Aspiring iOS Developer | Exploring Swift, SwiftUI, WatchOS and VisionOS | Passionate about clean UI/UX and innovative app development. Constantly learning and experimenting with modern technologies to bring creative ideas to life.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/ab/41/d9/ab41d994e0dbae64273e68d4ba8e2259.gif"  />
+</div>
+
+###
