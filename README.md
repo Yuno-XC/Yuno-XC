@@ -1,4 +1,3 @@
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -38,7 +37,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/ab/41/d9/ab41d994e0dbae64273e68d4ba8e2259.gif"  />
+  <img height="200" src="https://media.tenor.com/vZZEPrwfe6AAAAAi/happy-amine.gif"  />
 </div>
 
 ###
